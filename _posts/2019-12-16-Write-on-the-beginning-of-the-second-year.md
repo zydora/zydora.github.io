@@ -7,3 +7,4 @@ tags: [talking]
 ---
 
 Time flies rapidly, especially for the young. Meaning and value of life, and relationship, are the things that I would like to treasure most.
+I trust in all that the next 17(20-3) years will be better than the past. :)
