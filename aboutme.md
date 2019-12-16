@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Even though whole story is about innovation, life is still a circle.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Bio**:
+Since 2018, I am a Ph.D. student in Department of Electrical and Electronic Engineering, the University of Hong Kong. I received my B.Sc. degree at Wuhan University in 2018.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Research Interests**
+My growing research interests lie in the aspects below:
+- Tensor decomposition algorithms(My Ph.D. topic)
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+**Travel and Music**
+I spend my spare time on accumulation of the truth and the history other than the beauties accessible in the papers and books. The two perfect and complementary mediums are traveling and music. Inspection of history, culture, and economic situation is an interesting thing for me before the vacation. While for the days that are inconvenient for travelling around, thanks for persistent pursuiting of nature and harmony in melody, I'd like to enjoy the light music and symthony without any activity.
+
+**Reasoning and Suspense**
+Another kind of activiy that I think is worthful is enjoying the works of reasoning and suspense.
