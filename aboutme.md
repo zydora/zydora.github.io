@@ -15,6 +15,6 @@ My growing research interests lie in the aspects below:
 - Network Science
 
 **Travel | Music | Reasoning and Suspense**
-I spend my spare time on accumulation of the truth and the history other than the beauties accessible in the papers and books. The two perfect and complementary mediums are traveling and music. Inspection of history, culture, and economic situation is an interesting thing for me before the vacation. While for the days that are inconvenient for travelling around, thanks for persistent pursuiting of nature and harmony in melody, I'd like to enjoy the light music and symthony without any activity.
+I spend my spare time on accumulation of the truth other than the beauties accessible in the papers and books. The two perfect and complementary mediums are *traveling* and *music*. The inspection of history, culture, and economic situation during the preparation of vacation is an interesting thing for me. For the days when it is inconvenient to travel around, thanks for the persistent pursuiting of nature and harmony in melody of human, I'd like to be focused on the light music and symthony without other activities.
 
-Another kind of activiy that I think is worthful is enjoying the works of reasoning and suspense.
+Another kind of activiy that I considered worthful of time is enjoying the works of reasoning and suspense.
