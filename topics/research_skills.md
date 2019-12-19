@@ -1,6 +1,9 @@
 ------------------
-Research_skills
-
+layout: post
+title: Research_skills
+subtitle: Thinking will vary with time.
+bigimg: /img/2-1FR1154151b8.jpg
+tags: [talking]
 ------------------
 1. Presentation is quite important for everyone, especially for Ph.D. student. It is the core of competition.
 2. Time Management, Emotion recognition and control, communication, are three aspects should be realized at the beginning.
